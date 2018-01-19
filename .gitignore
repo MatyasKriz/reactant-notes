@@ -67,4 +67,4 @@ fastlane/screenshots
 fastlane/test_output
 Reactant-Notes.xcworkspace
 !Application/Generated/.gitkeep
-Application/Generated/*/
+Application/Generated
