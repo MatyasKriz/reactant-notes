@@ -1,3 +1,5 @@
+[author]: https://github.com/MatyasKriz
+
 # RNotes
 ###### Keep all your important notes in one place. Then wipe them all!
 
@@ -24,7 +26,7 @@ This project shows off the **Reactant** architecture and its tutorial can be fou
 Deleting single notes is not implemented, a PR would be greatly appreciated!
 
 ## Authors
-Me
+[Matyas Kriz][author]
 
 ## License
 Use the code however you want if it's in accordance with `LICENSE`. Thanks!
